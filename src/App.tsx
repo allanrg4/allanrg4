@@ -1,7 +1,7 @@
 import { Component, createSignal } from 'solid-js';
 
 const App: Component = () => {
-  const [getProfileLink] = createSignal('https://www.linkedin.com/in/allan-rodirguez-garcia-8829a4160/')
+  const [getProfileLink] = createSignal('https://github.com/allanrg4')
 
   return (
     <div>
