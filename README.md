@@ -1,10 +1,10 @@
 ## 👋 Hi there! I'm Alllan Garcia 👋
 
-I'm a ***Full-Stack Developer*** working in Guatemala City, Guatemala 🇬🇹
+With +6 years of experience I'm a ***Full-Stack Developer*** working in Guatemala City, Guatemala 🇬🇹
 
 <hr/>
 
-- 🔭 I’m currently working on ***ALMA by Fundegua***
+- 🔭 I’m currently working on ***Vana***
 - 🌱 I’m currently learning a few new awesome web frameworks to increase my toolbox and generate new ideas
 - 👯 I’m looking to collaborate on Backend Development with Python 🐍
 - 🤔 I’m looking for help with Game Development and UX/UI Designer
